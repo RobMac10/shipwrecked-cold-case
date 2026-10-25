@@ -64,14 +64,14 @@ window.CC={
  },
  "entries": [
   {
-   "tag": "Entry 1.1: rider's account of the date",
+   "tag": "Entry 1.1: rider’s account of the date",
    "text": [
     "From the day the news came to the hurdles:",
     "Jo hears it from a rider who stops at the hurdles to water his horse. The rider says it happened yesterday morning. Jo knows the day he is standing in, because the ration dray came the day before Christmas and he has counted the mornings since. But the rider has been on the road all night and part of the day before. Jo cannot tell which morning his yesterday means. He does not ask. The rider is already gone."
    ]
   },
   {
-   "tag": "Entry 1.2: the station's name for the servant",
+   "tag": "Entry 1.2: the station’s name for the servant",
    "text": [
     "He has seen the station’s Aboriginal servant once, at the yard, carrying water up from the creek. The station men call the servant by a short English word, the kind of word men give a dog or a horse. Jo has not heard any other name. He thinks about that more than he expects to."
    ]
@@ -89,7 +89,7 @@ window.CC={
    ]
   },
   {
-   "tag": "Entry 2.2: list of the dead, the servant's line",
+   "tag": "Entry 2.2: list of the dead, the servant’s line",
    "text": [
     "The list he copied from the station gave the dead as men by their names, a woman, and a native servant. He wrote it the same way. There was room on the line for a name. He did not send to ask for one. He told himself it was not his column."
    ]
@@ -113,7 +113,7 @@ window.CC={
    ]
   },
   {
-   "tag": "Entry 3.2: the servant's name (withheld)",
+   "tag": "Entry 3.2: the servant’s name (withheld)",
    "text": [
     "He knew the station servant’s own name, from the servant’s own people. It was not the word the station used. It is not written here. It is not his to give. [CHECK: the servant’s name is not known from the records; any naming should come from the traditional owners]"
    ]
@@ -147,7 +147,7 @@ window.CC={
   "Big question": {
    "h": "Big question",
    "p": [
-    "Can we show that the official story of Mount Larcombe is incomplete — not by guessing, but by listing what the printed sources omit?"
+    "Can we show that the official story of Mount Larcombe is incomplete—not by guessing, but by listing what the printed sources omit?"
    ],
    "t": []
   },
@@ -340,14 +340,14 @@ window.CC={
    "p": [
     "Write eight to twelve lines. You must use at least three ticks from the omission table as evidence. Do not invent numbers the sources do not give.",
     "Start with one of these openings: The printed story is incomplete because… Source A tells us who died on the station and hides… I cannot say exactly what “the usual manner” meant, but I can say what the officer did not write…",
-    "How sure are you? Green — the omission is proved. Amber — some gaps still guesswork. Red — I argued past the evidence."
+    "How sure are you? Green—the omission is proved. Amber—some gaps still guesswork. Red—I argued past the evidence."
    ],
    "t": []
   },
   "Stage 6: Optional. Retell it": {
    "h": "Stage 6: Optional. Retell it",
    "p": [
-    "Take one sentence from Source A and rewrite it as the Scout might tell it — still without inventing names or ceremony. Then rewrite the same sentence as Jo might tell it from Calliope. What changes when the speaker changes?",
+    "Take one sentence from Source A and rewrite it as the Scout might tell it—still without inventing names or ceremony. Then rewrite the same sentence as Jo might tell it from Calliope. What changes when the speaker changes?",
     "Jo, Powell and the Scout were never questioned. No inquiry wrote down what Jo saw and heard on the run, what Powell left off the page, or what the Scout watched from the tree. Their accounts stayed apart for all those years. This file is the first time anyone has set them side by side and asked. What you wrote in the box above is a finding. It rests only on the evidence in these pages, and on the questions the record never put."
    ],
    "t": []

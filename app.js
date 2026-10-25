@@ -28,7 +28,7 @@ s4:()=>{const h=stage(4),t=S[h].t;return '<h2>'+esc(h)+'</h2>'+P(S[h].p)+t.slice
 s5:()=>{const h=stage(5),p=S[h].p;const starts=p[1].replace(/^Start with one of these openings: /,'').split('… ').map((s,i,a)=>i<a.length-1?s+'…':s);
  const sure=p[2].replace('How sure are you? ','').split(/\.\s*/).filter(Boolean);
  return '<h2>'+esc(h)+'</h2>'+P([p[0]])+'<p>Start with one of these openings. Tap one to add it to your verdict.</p><div class="chips">'+starts.map(s=>'<button class="btn" data-ins="'+esc(s).replace(/"/g,'&quot;')+'">'+esc(s)+'</button>').join('')+'</div>'+txt('s5_v','My verdict',true)+
- '<fieldset class="sure" style="border:1px solid var(--rule);margin-top:10px"><legend>How sure are you?</legend>'+sure.map(x=>rad('s5_sure',x.split(' — ')[0],x+'.')).join('')+'</fieldset>';},
+ '<fieldset class="sure" style="border:1px solid var(--rule);margin-top:10px"><legend>How sure are you?</legend>'+sure.map(x=>rad('s5_sure',x.split(/\s*—\s*/)[0],x+'.')).join('')+'</fieldset>';},
 s6:()=>{const h=stage(6);return '<h2>'+esc(h)+'</h2>'+P(s6p)+txt('s6_src','The sentence from Source A')+txt('s6_scout','As the Scout might tell it',true)+txt('s6_jo','As Jo might tell it from Calliope',true)+txt('s6_change','What changes when the speaker changes?',true);},
 finding:()=>'<h2>Finding</h2><div class="typed"><b>CASE FILE: FINDING</b>'+'</div>'+txt('f_status','Case status:')+txt('f_reason','Reason, from the evidence:',true)+'<p style="margin-top:14px">'+fmt(closing)+'</p><p class="noprint"><button class="btn dark" id="printbtn">Print or save my case file</button></p>'
 };
