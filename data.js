@@ -109,7 +109,7 @@ window.CC={
   {
    "tag": "Entry 3.1: count of sleeps before the smoke",
    "text": [
-    "He knew which morning the smoke came up over Mount Larcombe. He had counted the sleeps since the boss rode out toward the harbour. Nobody at the barracks or the station asked him to count them, so the number stayed with him."
+    "He knew which morning the smoke came up over Mount Larcom. He had counted the sleeps since the boss rode out toward the harbour. Nobody at the barracks or the station asked him to count them, so the number stayed with him."
    ]
   },
   {
